@@ -1,7 +1,7 @@
 
 
 
-bkRnaseqDE: The bulk RNAseq differential expression analysis pipeline
+bulkRnaseqDE: Differential gene expression analysis pipeline for bulk RNAseq experiments
 ====================================================
 
 ## Overview: 
